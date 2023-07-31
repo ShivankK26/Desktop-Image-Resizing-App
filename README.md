@@ -32,7 +32,7 @@ The Tech Stacks used are:
 To get started, download the entire Source Code and then follow the Documentation.
 
   
-* electronj Documentation Link
+* electronjs Documentation Link
 
   ```sh
       https://www.electronjs.org/docs/latest/
